@@ -1,0 +1,1 @@
+Annotation files must be combined, decompress the files (tar -xvzf) and concatenate them (cat part1 part2) before openning. 
